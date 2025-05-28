@@ -4,6 +4,41 @@
     "title": "Atlas Metals Industries - Professional Manufacturing Services",
     "description": "Atlas Metals Industries is a trusted name in metal forging and casting, delivering high-strength, precision-engineered components for industrial use."
   },
+  "theme": {
+    "id": "modern",
+    "hero": {
+      "layout": "centered",
+      "textAlignment": "center",
+      "backgroundStyle": "gradient"
+    },
+    "name": "Modern",
+    "colors": {
+      "text": "#1f2937",
+      "accent": "#06b6d4",
+      "primary": "#3b82f6",
+      "secondary": "#1e40af",
+      "background": "#ffffff"
+    },
+    "effects": {
+      "shadows": true,
+      "gradients": true,
+      "animations": true
+    },
+    "spacing": {
+      "content": "medium",
+      "section": "normal"
+    },
+    "navigation": {
+      "style": "transparent",
+      "position": "fixed",
+      "background": "rgba(255, 255, 255, 0.95)"
+    },
+    "typography": {
+      "scale": "medium",
+      "bodyFont": "Inter",
+      "headingFont": "Inter"
+    }
+  },
   "footer": {
     "enabled": true,
     "copyright": "© 2024 Atlas Metals Industries. All rights reserved.",
@@ -41,7 +76,7 @@
   "sections": {
     "hero": {
       "enabled": true,
-      "headline": "Welcome to Atlas Metals Industries - Your Trusted Manufacturing Partner",
+      "headline": "Welcome to Atlas Metals Industries",
       "primaryCTA": {
         "link": "#quote",
         "text": "Get Quote"
