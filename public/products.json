@@ -1,212 +1,1553 @@
 {
+  "featured": [
+    "product-1-1"
+  ],
   "categories": [
     {
       "id": "category-1",
-      "name": "Architectural Profiles",
-      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&category=Architectural%20Profiles",
+      "name": "Forged Components",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&category=Forged%20Components",
       "products": [
         {
           "id": "product-1-1",
-          "name": "Architectural Profiles Product 1",
+          "name": "Forged Components Product 1",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=1",
-          "description": "Professional-grade architectural profiles designed for optimal performance and reliability",
+          "description": "High-quality forged components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-1-2",
-          "name": "Architectural Profiles Product 2",
+          "name": "Forged Components Product 2",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=2",
-          "description": "Professional-grade architectural profiles designed for optimal performance and reliability",
+          "description": "High-quality forged components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-1-3",
-          "name": "Architectural Profiles Product 3",
+          "name": "Forged Components Product 3",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=3",
-          "description": "Professional-grade architectural profiles designed for optimal performance and reliability",
+          "description": "High-quality forged components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-4",
+          "name": "Forged Components Product 4",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=4",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-5",
+          "name": "Forged Components Product 5",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=5",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-6",
+          "name": "Forged Components Product 6",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=6",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-7",
+          "name": "Forged Components Product 7",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=7",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-8",
+          "name": "Forged Components Product 8",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=8",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-9",
+          "name": "Forged Components Product 9",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=9",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-10",
+          "name": "Forged Components Product 10",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=10",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-11",
+          "name": "Forged Components Product 11",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=11",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-12",
+          "name": "Forged Components Product 12",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=12",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-13",
+          "name": "Forged Components Product 13",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=13",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-14",
+          "name": "Forged Components Product 14",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=14",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-15",
+          "name": "Forged Components Product 15",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=15",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-16",
+          "name": "Forged Components Product 16",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=16",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-17",
+          "name": "Forged Components Product 17",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=17",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-18",
+          "name": "Forged Components Product 18",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=18",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-19",
+          "name": "Forged Components Product 19",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=19",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-20",
+          "name": "Forged Components Product 20",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=20",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-21",
+          "name": "Forged Components Product 21",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=21",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-22",
+          "name": "Forged Components Product 22",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=22",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-23",
+          "name": "Forged Components Product 23",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=23",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-24",
+          "name": "Forged Components Product 24",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=24",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-25",
+          "name": "Forged Components Product 25",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=25",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-26",
+          "name": "Forged Components Product 26",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=26",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-27",
+          "name": "Forged Components Product 27",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=27",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-28",
+          "name": "Forged Components Product 28",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=28",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-29",
+          "name": "Forged Components Product 29",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=29",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-30",
+          "name": "Forged Components Product 30",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=30",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-31",
+          "name": "Forged Components Product 31",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=31",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-32",
+          "name": "Forged Components Product 32",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=32",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-33",
+          "name": "Forged Components Product 33",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=33",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-34",
+          "name": "Forged Components Product 34",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=34",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-35",
+          "name": "Forged Components Product 35",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=35",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-36",
+          "name": "Forged Components Product 36",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=36",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-37",
+          "name": "Forged Components Product 37",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=37",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-38",
+          "name": "Forged Components Product 38",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=38",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-39",
+          "name": "Forged Components Product 39",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=39",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-1-40",
+          "name": "Forged Components Product 40",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=40",
+          "description": "High-quality forged components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
           ]
         }
       ],
-      "description": "Aluminum sections used in windows, doors, partitions, curtain walls, glazing, and other architectural systems. Designed for aesthetic appeal and structural performance."
+      "description": "Forged components includes Flanges, Shafts, Gears, Spindles, Forged Rings, Custom Forged Shapes"
     },
     {
       "id": "category-2",
-      "name": "Electrical & Electronics Profiles",
-      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&category=Electrical%20%26%20Electronics%20Profiles",
+      "name": "Cast Components",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop&category=Cast%20Components",
       "products": [
         {
           "id": "product-2-1",
-          "name": "Electric Product",
+          "name": "Cast Components Product 1",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=1",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-2-2",
-          "name": "Electrical & Electronics Profiles Product 2",
+          "name": "Cast Components Product 2",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=2",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-2-3",
-          "name": "Electrical & Electronics Profiles Product 3",
+          "name": "Cast Components Product 3",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=3",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-2-4",
-          "name": "Electrical & Electronics Profiles Product 4",
+          "name": "Cast Components Product 4",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=4",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-2-5",
-          "name": "Electrical & Electronics Profiles Product 5",
+          "name": "Cast Components Product 5",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=5",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
           ]
         },
         {
           "id": "product-2-6",
-          "name": "Electrical & Electronics Profiles Product 6",
+          "name": "Cast Components Product 6",
           "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=6",
-          "description": "Professional-grade electrical & electronics profiles designed for optimal performance and reliability",
+          "description": "High-quality cast components designed for professional use",
           "applications": [
-            "Commercial Use",
-            "Industrial Applications",
-            "Professional Projects",
-            "Quality Assurance",
-            "Long-term Performance"
+            "Commercial",
+            "Industrial",
+            "Professional"
           ],
           "specifications": [
             "High Quality",
             "Professional Grade",
             "Industry Standard",
-            "Certified",
-            "Durable Construction",
-            "Premium Materials"
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-7",
+          "name": "Cast Components Product 7",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=7",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-8",
+          "name": "Cast Components Product 8",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=8",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-9",
+          "name": "Cast Components Product 9",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=9",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-10",
+          "name": "Cast Components Product 10",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=10",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-11",
+          "name": "Cast Components Product 11",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=11",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-12",
+          "name": "Cast Components Product 12",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=12",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-13",
+          "name": "Cast Components Product 13",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=13",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-14",
+          "name": "Cast Components Product 14",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=14",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-15",
+          "name": "Cast Components Product 15",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=15",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-16",
+          "name": "Cast Components Product 16",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=16",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-17",
+          "name": "Cast Components Product 17",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=17",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-18",
+          "name": "Cast Components Product 18",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=18",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-19",
+          "name": "Cast Components Product 19",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=19",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-20",
+          "name": "Cast Components Product 20",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=20",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-21",
+          "name": "Cast Components Product 21",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=21",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-22",
+          "name": "Cast Components Product 22",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=22",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-23",
+          "name": "Cast Components Product 23",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=23",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-24",
+          "name": "Cast Components Product 24",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=24",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-25",
+          "name": "Cast Components Product 25",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=25",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-26",
+          "name": "Cast Components Product 26",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=26",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-27",
+          "name": "Cast Components Product 27",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=27",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-28",
+          "name": "Cast Components Product 28",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=28",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-29",
+          "name": "Cast Components Product 29",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=29",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-30",
+          "name": "Cast Components Product 30",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=30",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-31",
+          "name": "Cast Components Product 31",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=31",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-32",
+          "name": "Cast Components Product 32",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=32",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-33",
+          "name": "Cast Components Product 33",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=33",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-34",
+          "name": "Cast Components Product 34",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=34",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-35",
+          "name": "Cast Components Product 35",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=35",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-36",
+          "name": "Cast Components Product 36",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=36",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-37",
+          "name": "Cast Components Product 37",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=37",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-38",
+          "name": "Cast Components Product 38",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=38",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-39",
+          "name": "Cast Components Product 39",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=39",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-40",
+          "name": "Cast Components Product 40",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=40",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-41",
+          "name": "Cast Components Product 41",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=41",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-42",
+          "name": "Cast Components Product 42",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=42",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-43",
+          "name": "Cast Components Product 43",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=43",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-44",
+          "name": "Cast Components Product 44",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=44",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-45",
+          "name": "Cast Components Product 45",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=45",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-46",
+          "name": "Cast Components Product 46",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=46",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-47",
+          "name": "Cast Components Product 47",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=47",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-48",
+          "name": "Cast Components Product 48",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=48",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-49",
+          "name": "Cast Components Product 49",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=49",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
+          ]
+        },
+        {
+          "id": "product-2-50",
+          "name": "Cast Components Product 50",
+          "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&h=200&fit=crop&product=50",
+          "description": "High-quality cast components designed for professional use",
+          "applications": [
+            "Commercial",
+            "Industrial",
+            "Professional"
+          ],
+          "specifications": [
+            "High Quality",
+            "Professional Grade",
+            "Industry Standard",
+            "Certified"
           ]
         }
       ],
-      "description": "Precision extrusions for electrical enclosures, busbars, heat sinks, and electronic chassis. Designed to provide thermal efficiency and electrical conductivity."
+      "description": "There are various cast components such as Valve Bodies, Pump Housings, Impellers, Manifolds, Couplers ,Decorative & Architectural Castings"
     }
-  ],
-  "featured": [
-    "product-1-1"
   ]
 }
